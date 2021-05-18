@@ -1,3 +1,2 @@
 # NombreRepositorioPruebaGitHub
-descripcion 
-Estoy probando el github,gitbash,etc
+Nada que ver por aqui, estoy probando github,comandos gitbash,etc
